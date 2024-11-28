@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I started coding!<br>📚 I'm currently learning advanced C programming and exploring web development.<br>🎯 Goals: To become a full-stack developer and contribute to open-source projects.<br>🎲 Fun fact: I can debug better with a cup of chai!</p>
+<p align="left">✨ Creating bugs since I started coding!<br>📚 I'm currently mastering C and C++ programming while exploring systems-level development.<br>🎯 Goals: To contribute to impactful projects in software development and enhance my problem-solving skills.<br>🎲 Fun fact: Debugging in C feels like solving a mystery novel!</p>
 
 ###
 
@@ -19,8 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"  />
+</div>
